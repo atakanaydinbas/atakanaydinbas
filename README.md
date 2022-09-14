@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Atakan</h1>
-<h3 align="center">Data Engineer</h3>
 
 - 🔭 I’m currently working on [Stroke Prediction](https://github.com/atakanaydinbas/Stroke-Prediction-EDA-and-Accuracy)
 
